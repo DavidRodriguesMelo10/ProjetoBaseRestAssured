@@ -21,6 +21,6 @@ Este projeto contém testes automatizados para a API de gerenciamento de produto
 
 3. **Clone o repositório**:
    ```bash
-
+   https://github.com/DavidRodriguesMelo10/ProjetoBaseRestAssured.git
    
    
